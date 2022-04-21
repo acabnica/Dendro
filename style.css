@@ -1,5 +1,9 @@
 .bg-cover {
-    background-size: cover !important;
-    background-attachment: fixed;
+    background-size: cover !important; font-family: sans-serif;
 }
-.row {text-align: center;}
+.row {color: azure; font-family: sans-serif; text-align: center;
+}
+.carousel-item{ 
+    height: 25rem;
+position: relative; padding-bottom: 5rem;
+}
